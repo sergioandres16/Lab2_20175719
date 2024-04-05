@@ -96,14 +96,14 @@
                 android:id="@+id/button7"
                 android:layout_width="70dp"
                 android:layout_height="50dp"
-                android:background="#8E8686"
+                android:backgroundTint="#8E8686"
                 android:text="7" />
 
             <Button
                 android:id="@+id/button8"
                 android:layout_width="70dp"
                 android:layout_height="50dp"
-                android:background="#8E8686"
+                android:backgroundTint="#8E8686"
                 android:text="8"
                 android:translationX="20dp" />
 
@@ -111,7 +111,7 @@
                 android:id="@+id/button9"
                 android:layout_width="70dp"
                 android:layout_height="50dp"
-                android:background="#8E8686"
+                android:backgroundTint="#8E8686"
                 android:text="9"
                 android:translationX="30dp" />
 
@@ -119,7 +119,7 @@
                 android:id="@+id/buttondivide"
                 android:layout_width="70dp"
                 android:layout_height="50dp"
-                android:background="#8E8686"
+                android:backgroundTint="#8E8686"
                 android:text="/"
                 android:translationX="50dp" />
         </TableRow>
@@ -133,14 +133,14 @@
                 android:id="@+id/button4"
                 android:layout_width="70dp"
                 android:layout_height="50dp"
-                android:background="#8E8686"
+                android:backgroundTint="#8E8686"
                 android:text="4" />
 
             <Button
                 android:id="@+id/button5"
                 android:layout_width="70dp"
                 android:layout_height="50dp"
-                android:background="#8E8686"
+                android:backgroundTint="#8E8686"
                 android:text="5"
                 android:translationX="20dp" />
 
@@ -148,7 +148,7 @@
                 android:id="@+id/button6"
                 android:layout_width="70dp"
                 android:layout_height="50dp"
-                android:background="#8E8686"
+                android:backgroundTint="#8E8686"
                 android:text="6"
                 android:translationX="30dp" />
 
@@ -156,7 +156,7 @@
                 android:id="@+id/buttonmultiplica"
                 android:layout_width="70dp"
                 android:layout_height="50dp"
-                android:background="#8E8686"
+                android:backgroundTint="#8E8686"
                 android:text="*"
                 android:translationX="50dp" />
         </TableRow>
@@ -170,14 +170,14 @@
                 android:id="@+id/button1"
                 android:layout_width="70dp"
                 android:layout_height="50dp"
-                android:background="#8E8686"
+                android:backgroundTint="#8E8686"
                 android:text="1" />
 
             <Button
                 android:id="@+id/button2"
                 android:layout_width="70dp"
                 android:layout_height="50dp"
-                android:background="#8E8686"
+                android:backgroundTint="#8E8686"
                 android:text="2"
                 android:translationX="20dp" />
 
@@ -185,7 +185,7 @@
                 android:id="@+id/button3"
                 android:layout_width="70dp"
                 android:layout_height="50dp"
-                android:background="#8E8686"
+                android:backgroundTint="#8E8686"
                 android:text="3"
                 android:translationX="30dp" />
 
@@ -193,7 +193,7 @@
                 android:id="@+id/buttonresta"
                 android:layout_width="70dp"
                 android:layout_height="50dp"
-                android:background="#8E8686"
+                android:backgroundTint="#8E8686"
                 android:text="-"
                 android:translationX="50dp" />
         </TableRow>
@@ -207,7 +207,7 @@
                 android:id="@+id/buttonlimpia"
                 android:layout_width="70dp"
                 android:layout_height="50dp"
-                android:background="#8E8686"
+                android:backgroundTint="#8E8686"
                 android:padding="1dp"
                 android:text="CLR"
                 android:textSize="16sp" />
@@ -216,7 +216,7 @@
                 android:id="@+id/button0"
                 android:layout_width="70dp"
                 android:layout_height="50dp"
-                android:background="#8E8686"
+                android:backgroundTint="#8E8686"
                 android:text="0"
                 android:textSize="14sp"
                 android:translationX="20dp" />
@@ -225,7 +225,7 @@
                 android:id="@+id/buttonigual"
                 android:layout_width="70dp"
                 android:layout_height="50dp"
-                android:background="#8E8686"
+                android:backgroundTint="#8E8686"
                 android:text="="
                 android:textSize="14sp"
                 android:translationX="30dp" />
@@ -234,7 +234,7 @@
                 android:id="@+id/buttonsuma"
                 android:layout_width="70dp"
                 android:layout_height="50dp"
-                android:background="#8E8686"
+                android:backgroundTint="#8E8686"
                 android:text="+"
                 android:textSize="14sp"
                 android:translationX="50dp" />
